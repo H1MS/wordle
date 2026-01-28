@@ -1,1 +1,2 @@
 # wordle
+#   Debi nacer antes
