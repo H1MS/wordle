@@ -16,6 +16,7 @@
 #         print('Perdiste')
 #         break
 
+#Trabajando en la comparacion de input con la palabra ganadora.
 adivinanza = input('Palabra de 5 letras')
 intentos = list(adivinanza)
 palabra_ganadora = 'pollo'
